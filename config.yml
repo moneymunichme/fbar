@@ -1,0 +1,9 @@
+year: 2021
+
+ynab:
+  token: mytoken
+
+currency:
+  usd_to_eur: 0.846
+  
+
