@@ -11,7 +11,7 @@ The Foreign Bank Account Report (FBAR) is form that must be filed by all US citi
 ## Usage
 
 1. Generate a [YNAB Personal Access Token](https://api.youneedabudget.com/#personal-access-tokens).
-2. Edit [config.yml](config.yml) to add your token as well as the relevant year and (currency conversion rate)(https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates).
+2. Edit [config.yml](config.yml) to add your token as well as the relevant year and [currency conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates).
 3. Install dependencies:
 ```
 pip install -r requirements.txt
